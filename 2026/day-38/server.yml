@@ -8,3 +8,8 @@ database:
   credential:
     user: db_admin
     password: securep@ssword
+startup_script_preserve: |
+  #!bin/bash
+  echo "starting server.."
+  sytemctl start nginx
+  echo "nginx started sucessfully"
