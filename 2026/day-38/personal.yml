@@ -3,3 +3,10 @@ NAME: NADEEM
 GENDER: MALE
 AGE: 40
 MOBILE NO: 9867025598
+# 5 Devops Tolls Iam learning
+    tools:
+          github
+          docker
+          github action
+          kubernetes
+          jenkins
