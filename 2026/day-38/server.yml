@@ -1,0 +1,10 @@
+server:
+  server name: Appserver-01
+  ip adress: 192.168.0.12
+  port: 8080
+database:
+  host: db.exampl.com
+  name: app_database
+  credential:
+    user: db_admin
+    password: securep@ssword
